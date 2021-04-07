@@ -32,11 +32,14 @@ h1, h2 {
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color:rgb(196, 172, 218);
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color:brown;
+
 }
 
 h3 {
@@ -56,7 +59,7 @@ p {
 }
 
 a {
-  color: black;
+  color: green;
   text-decoration: none;
 }
 
